@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+    <link rel="stylesheet" href="/static/table.css">
+</head>
+<body>
+    <br>
+    <h1>Table</h1>
+    <br>
+    <table>
+        <tr>
+            {% for i in L[0] %}
+                <th>
+                    {{i}}
+                </th>
+            {% endfor %}
+        </tr>
+        {% for i in L[1:] %}
+            <tr>
+                {% for j in i %}
+                    <td>
+                        {{j}}
+                    </td>
+                {% endfor %}
+            </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
