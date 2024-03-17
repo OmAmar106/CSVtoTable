@@ -16,6 +16,6 @@ Go open the command prompt and then write
 <pre><h1>                      ScreenShots</h1></pre>
 
 
-![alt text](image.png)
+![Screenshot 2024-03-17 225713](https://github.com/OmAmar106/CSVtoTable/assets/142908269/0eb0d0dd-1890-4890-abfa-ff9b74c661d6)
 
-![alt text](image-2.png)
+![Screenshot 2024-03-17 233034](https://github.com/OmAmar106/CSVtoTable/assets/142908269/89176a14-6423-496c-94fd-3c6528a96b74)
