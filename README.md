@@ -1,4 +1,4 @@
-<pre><h1>                     CSV to HTML Table</h1></pre>
+<pre><h1>                   CSV to HTML Table</h1></pre>
 <hr></hr>
 <br>
 This is a Program that takes a CSV file as input, by upload and then prints it in the html webpage.
@@ -13,7 +13,7 @@ Go open the command prompt and then write
 <br><br>
 <pre>>>pip3 install flask</pre>
 <hr></hr>
-<pre><h1>                        ScreenShots</h1></pre>
+<pre><h1>                      ScreenShots</h1></pre>
 
 
 ![alt text](image.png)
